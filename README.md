@@ -6,3 +6,5 @@ To change the image Just Type image name instead of 'notredame'
 2. Then you have to choose 4 destination points.
 3. Then you will see transformed image, now you have to select 4 corners of image to crop it automatically for you.
 4. The resultant image will be saved automatically as aligned image appended with name of image
+## Requirement 
+Machine Vision Toolbox for MATLAB (Available in Code Folder)
