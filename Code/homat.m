@@ -9,7 +9,7 @@ elseif length(p1)~= length(p2)
     error('Number of poits in each point set must be same');
 elseif length(p1) < 4
     error('There must larger than 4 points in each point set');
-elseif width(p1) ~= 2
+elseif size(p1,2) ~= 2
     error('There must be 2D points in each point set');
 end
 % Solve equations using SVD
