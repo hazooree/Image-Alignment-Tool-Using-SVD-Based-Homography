@@ -1,4 +1,4 @@
-name = 'notredame';
+name = 'images\notredame';
 im = (imread(strcat(name,'.jpg')));
 imshow(im)
 title('Mark the 4 source points')
