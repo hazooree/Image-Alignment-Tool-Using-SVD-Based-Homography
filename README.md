@@ -1,6 +1,7 @@
 # Aligning Your Misaligned Images of a tall building or large scene
-Note: For a Detailed demo Visit:
-https://youtu.be/qJlzK17fjPg
+[Note: For a Detailed demo Visit:
+https://youtu.be/qJlzK17fjPg]
+
 It is the simplest implementation of Homography in Matlab using SVD.
 To change the image Just Type image name instead of 'notredame'
 ## Steps:
